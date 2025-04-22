@@ -2,7 +2,10 @@
 
 ## 🚀 Project Overview
 
-**IntroNet** is a social network application that leverages **graph theory** to model user relationships and provide insightful social recommendations. Each user is represented as a **node** in a graph, with friendships represented as **edges** connecting these nodes. The system offers several key functionalities such as mutual friends, friend recommendations, and a real-time user feed, similar to features commonly found on popular social media platforms.
+IntroNet is a social network application that leverages graph theory to model user relationships and provide insightful social recommendations. Each user is represented as a node in a graph, with friendships represented as edges connecting these nodes. The system offers several key functionalities such as mutual friends, friend recommendations, and a real-time user feed, similar to features commonly found on popular social media platforms.
+
+🧠 **IntroNet** is a project developed to implement and demonstrate knowledge gained from the **Data Structures and Algorithms (DSA)** course.
+
 
 ## 📌 Key Features
 
